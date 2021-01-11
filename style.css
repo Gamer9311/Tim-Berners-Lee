@@ -70,3 +70,21 @@
 .link:hover {
     background-color: dodgerblue;
 }
+
+#timswork {
+    text-decoration: none;
+}
+
+#timswork:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+#www {
+    width: 200px;
+    height: 100px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
