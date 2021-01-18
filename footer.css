@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background: linear-gradient(90deg, #833ab4 0%, #fd1d1d 50%, #fcb045 100%);
+}
+
+footer {
+    width: 100%;
+    background-color: lightcoral;
+}
+
+header {
+    background-color: blue;
+}
